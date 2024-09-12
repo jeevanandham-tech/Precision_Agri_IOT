@@ -24,20 +24,6 @@ Precision agriculture is a farming management concept that uses IoT (Internet of
 - **IoT Sensors**: Simulated sensors (temperature, soil moisture, and humidity).
 - **Data Transmission**: Data is simulated as being sent to a server (expandable to HTTP/MQTT).
 
-## Project Structure
-
-```
-precision-agriculture-iot-java/
-│
-├── src/
-│   └── main/
-│       └── java/
-│           └── PrecisionAgriculture.java   # Main Java code
-│
-├── README.md                               # Project documentation
-└── .gitignore                              # Files and directories to be ignored by Git
-```
-
 ## Setup Instructions
 
 1. **Clone the Repository**
